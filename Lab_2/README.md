@@ -2,4 +2,5 @@
 
 ## Homework 2
 
-### File inside contains the screenshot of the homework
+### Files contain a screenshot of the code and results.
+### Also a python file containg the code is available as well.
